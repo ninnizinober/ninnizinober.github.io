@@ -1,10 +1,12 @@
 ### About me
 
+Welcome! I am a PhD Researcher at the Department of Political and Social Sciences at the European University Institute, working on a dissertation about the regulation of the Norwegian salmon farming industry.
+
+Throughout my adult life, one question has kept coming back to me: why do societies treat animals so poorly, despite good intentions, established regulatory institutions, and widespread professed care for animals? This question drives my research, which centres on how societies treat and govern nonhuman animals and the environment, and has led me to a broader interest in environmental issues.
+
+My work is inherently interdisciplinary and sits at the intersection of regulation, comparative political economy, and green criminology. Methodologically, I am driven by curiosity. I work with discourse network analysis, qualitative interviews, and document analysis, and I enjoy learning new approaches when the research question calls for it – I believe the question, not the method, should lead the way.
+
 I have a Bachelor's and Master's degree in Criminology from the University of Oslo, as well as a Bachelor's degree in Social Work from Oslo Metropolitan University.
-
-Throughout my adult life, one question has kept coming back to me: why do societies treat animals so poorly, despite good intentions, established regulatory institutions, and widespread professed care for animals? This question drives my research, which centres on how societies treat and govern nonhuman animals and the environment. My work is inherently interdisciplinary and sits at the intersection of regulation, political economy, and green criminology.
-
-Methodologically, I am driven by curiosity. I work with discourse network analysis, qualitative interviews, and document analysis, and I enjoy learning new approaches when the research question calls for it – I believe the question, not the method, should lead the way.
 
 ### Publications
 
