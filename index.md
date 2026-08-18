@@ -1,10 +1,10 @@
-![Ninni Zinober](photo.jpg)
+![Ninni Zinober](Ninni-Zinober-2025.jpg)
 
 Welcome! I am a PhD Researcher at the Department of Political and Social Sciences at the European University Institute.
 
 I am working on a dissertation about the regulation of the Norwegian salmon farming industry. I am interested in regulatory dynamics and political processes.
 
-[Google Scholar]([DIN-SCHOLAR-LENKE](https://scholar.google.com/citations?user=lRDIQZkAAAAJ&hl=en&oi=ao) | [LinkedIn]([DIN-LINKEDIN-LENKE](https://www.linkedin.com/in/ninni-zinober-747655277/)) | [CV](CV.pdf)
+[Google Scholar](https://scholar.google.com/citations?user=lRDIQZkAAAAJ&hl=en&oi=ao) | [LinkedIn](https://www.linkedin.com/in/ninni-zinober-747655277/) | [CV](Ninni-Zinober-CV-2026.pdf)
 
 ### About me
 
@@ -22,11 +22,12 @@ Throughout my adult life, one question has kept coming back to me: why do societ
 
 ### Teaching
 
-- [Kursnavn], [institusjon], [semester/år]
+- **Colloquium Leader**, Department of Criminology and Sociology of Law, University of Oslo, 2025 – led a colloquium for first-year criminology students, assisting them in organizing their studies and teaching study techniques and colloquium activities.
 
 ### Grants & Awards
 
-- [Stipend/pris], [år]
+- **Norwegian EUI Grant**, The Research Council of Norway (1 of 2 recipients) – fully funded 4-year PhD scholarship
+- **EUI Mission Funding** – grant to support two months of fieldwork, 2026
 
 ### Contact
 
