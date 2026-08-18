@@ -4,6 +4,8 @@ I have a Bachelor's and Master's degree in Criminology from the University of Os
 
 Throughout my adult life, one question has kept coming back to me: why do societies treat animals so poorly, despite good intentions, established regulatory institutions, and widespread professed care for animals? This question drives my research, which centres on how societies treat and govern nonhuman animals and the environment. My work is inherently interdisciplinary and sits at the intersection of regulation, political economy, and green criminology.
 
+Methodologically, I am driven by curiosity. I work with discourse network analysis, qualitative interviews, and document analysis, and I enjoy learning new approaches when the research question calls for it – I believe the question, not the method, should lead the way.
+
 ### Publications
 
 1. **The Language of Suffering: Discourses of Pig Farming and Welfare in Norway** (Forthcoming 2026). In H. J. Ohldieck & P. Fjågesund (Eds.), *Animals in the Anthropocene*. Solum Bokvennen.
