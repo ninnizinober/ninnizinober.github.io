@@ -1,6 +1,5 @@
 ---
 ---
-
 @import "{{ site.theme }}";
 
 a {
@@ -10,4 +9,8 @@ a {
 a:hover, a:focus {
   color: #000;
   text-decoration: underline;
+}
+
+body, h1, h2, h3, h4, h5, h6 {
+  font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
 }
