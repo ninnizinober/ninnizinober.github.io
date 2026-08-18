@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+a {
+  color: #000;
+}
+
+a:hover, a:focus {
+  color: #000;
+  text-decoration: underline;
+}
