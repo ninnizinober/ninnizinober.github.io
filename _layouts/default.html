@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+</head>
+<body>
+  <div class="wrapper">
+    <header>
+      <h1>{{ site.title }}</h1>
+      <img src="Ninni-Zinober-2025.jpg" alt="Ninni Zinober" style="width:100%; border-radius:6px;" />
+      <p>PhD Researcher<br>
+      Department of Political and Social Sciences<br>
+      European University Institute<br>
+      <a href="mailto:ninni.zinober@eui.eu">ninni.zinober@eui.eu</a></p>
+      <p>
+        <a href="https://scholar.google.com/citations?user=lRDIQZkAAAAJ&hl=en&oi=ao">Google Scholar</a><br>
+        <a href="https://www.linkedin.com/in/ninni-zinober-747655277/">LinkedIn</a><br>
+        <a href="Ninni-Zinober-CV-2026.pdf">CV</a>
+      </p>
+    </header>
+    <section>
+      {{ content }}
+    </section>
+  </div>
+</body>
+</html>
